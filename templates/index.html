@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AdaptiveDesk - AI Adaptive UI</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header>
+    <div class="brand">AdaptiveDesk <span>AI-based adaptive workspace</span></div>
+    <div class="controls">
+      <label>User <input id="user" value="guest" size="8"></label>
+      <span id="mode" class="badge">novice</span>
+      <button id="freeze">Pause adaptation</button>
+      <button id="reset" class="ghost">Reset learning</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="suggest" class="suggest hidden">
+      <div>
+        <strong>Suggested next:</strong> <span id="suggest-name"></span>
+        <small id="suggest-conf"></small>
+      </div>
+      <button id="suggest-open">Open</button>
+    </section>
+
+    <section id="grid" class="grid"></section>
+
+    <section id="panel" class="panel hidden">
+      <h2 id="panel-title"></h2>
+      <p id="panel-body"></p>
+      <button id="back">← Back to desk</button>
+    </section>
+
+    <aside class="why">
+      <h3>Why does my screen look like this?</h3>
+      <ul id="why"></ul>
+      <p class="meta" id="meta"></p>
+    </aside>
+  </main>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

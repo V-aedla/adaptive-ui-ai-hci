@@ -1,0 +1,14 @@
+{
+ "events": [],
+ "layout": [
+  "email",
+  "calendar",
+  "tasks",
+  "notes",
+  "files",
+  "reports",
+  "chat",
+  "settings"
+ ],
+ "frozen": false
+}

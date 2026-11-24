@@ -1,0 +1,315 @@
+{
+ "events": [
+  {
+   "tool": "email",
+   "ts": 1795359413.868848,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359415.049939,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359417.506909,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359418.600648,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359420.2023053,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359423.2694356,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359425.8460004,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359428.2887578,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359429.4052145,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359431.453062,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359433.8537052,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359436.3077056,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359437.5512822,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359440.0988061,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359442.1677868,
+   "error": false
+  },
+  {
+   "tool": "notes",
+   "ts": 1795359445.4763904,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359448.4623392,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359449.6669767,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359452.8548205,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359455.377218,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359456.7896233,
+   "error": false
+  },
+  {
+   "tool": "reports",
+   "ts": 1795359458.8438692,
+   "error": false
+  },
+  {
+   "tool": "files",
+   "ts": 1795359461.7552965,
+   "error": false
+  },
+  {
+   "tool": "reports",
+   "ts": 1795359463.6056023,
+   "error": false
+  },
+  {
+   "tool": "files",
+   "ts": 1795359466.0553403,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359469.417043,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359470.5687165,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359473.013582,
+   "error": false
+  },
+  {
+   "tool": "chat",
+   "ts": 1795359474.7250707,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359475.781478,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359478.3087769,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359481.2293594,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359483.2241037,
+   "error": false
+  },
+  {
+   "tool": "reports",
+   "ts": 1795359484.425557,
+   "error": false
+  },
+  {
+   "tool": "files",
+   "ts": 1795359486.1201546,
+   "error": false
+  },
+  {
+   "tool": "reports",
+   "ts": 1795359489.2801158,
+   "error": false
+  },
+  {
+   "tool": "files",
+   "ts": 1795359492.7462835,
+   "error": false
+  },
+  {
+   "tool": "reports",
+   "ts": 1795359496.1406116,
+   "error": false
+  },
+  {
+   "tool": "files",
+   "ts": 1795359497.5188577,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359499.7312646,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359501.4360914,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359503.3592253,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359506.0854595,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359508.2270687,
+   "error": false
+  },
+  {
+   "tool": "notes",
+   "ts": 1795359510.9285064,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359512.9259534,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359514.92706,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359517.0286272,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359518.1600661,
+   "error": true
+  },
+  {
+   "tool": "email",
+   "ts": 1795359520.501613,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359521.6774018,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359523.048778,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359525.554476,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359528.6768184,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359530.8778062,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359532.1332753,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359534.3298302,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359535.3875694,
+   "error": false
+  },
+  {
+   "tool": "notes",
+   "ts": 1795359537.2919505,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359540.1873078,
+   "error": false
+  }
+ ],
+ "layout": [
+  "email",
+  "calendar",
+  "tasks",
+  "files",
+  "reports",
+  "notes",
+  "chat",
+  "settings"
+ ],
+ "frozen": true
+}

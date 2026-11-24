@@ -1,0 +1,165 @@
+{
+ "events": [
+  {
+   "tool": "email",
+   "ts": 1795359298.3015678,
+   "error": true
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359303.0259306,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359312.8538108,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359317.2287674,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359323.6353974,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359335.9039187,
+   "error": true
+  },
+  {
+   "tool": "email",
+   "ts": 1795359346.210178,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359355.9812074,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359360.4470341,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359368.6384246,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359378.2409973,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359388.056999,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359393.0313048,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359403.2214007,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359411.4973238,
+   "error": false
+  },
+  {
+   "tool": "notes",
+   "ts": 1795359424.7317376,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359436.6755323,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359441.4940825,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359454.2454574,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359464.3350475,
+   "error": true
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359469.9846685,
+   "error": false
+  },
+  {
+   "tool": "reports",
+   "ts": 1795359478.201652,
+   "error": false
+  },
+  {
+   "tool": "files",
+   "ts": 1795359489.8473606,
+   "error": false
+  },
+  {
+   "tool": "reports",
+   "ts": 1795359497.2485843,
+   "error": false
+  },
+  {
+   "tool": "files",
+   "ts": 1795359507.0475364,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359520.4943473,
+   "error": false
+  },
+  {
+   "tool": "calendar",
+   "ts": 1795359525.1010416,
+   "error": false
+  },
+  {
+   "tool": "email",
+   "ts": 1795359534.880504,
+   "error": false
+  },
+  {
+   "tool": "chat",
+   "ts": 1795359541.7264593,
+   "error": false
+  },
+  {
+   "tool": "tasks",
+   "ts": 1795359545.9520886,
+   "error": false
+  }
+ ],
+ "layout": [
+  "email",
+  "calendar",
+  "tasks",
+  "files",
+  "reports",
+  "notes",
+  "chat",
+  "settings"
+ ],
+ "frozen": false
+}
