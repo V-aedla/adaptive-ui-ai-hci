@@ -46,10 +46,6 @@ tests/test_engine.py   Unit and API tests (pytest)
 data/                  Per-user interaction logs (JSON)
 ```
 
-## AI tool disclosure
-
-Claude (Anthropic) was used to help generate the source code and draft documentation.
-All code was run and tested; design decisions and parameters were reviewed by the author.
 
 ## Libraries
 
