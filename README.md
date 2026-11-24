@@ -3,7 +3,7 @@
 A small Flask web app that adapts its own interface at runtime from how each user
 interacts with it. Built for the *Adaptive UI using AI/HCI* project.
 
-**GitHub repository:** https://github.com/YOUR-USERNAME/adaptive-ui-ai-hci  *(replace after pushing)*
+
 
 ## What adapts
 
